@@ -1,7 +1,20 @@
 {
   "name": "hide-scrollbar",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "Hide scrollbar(s) of the given element both on horizotal and vertical if present.",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hehe1111/hide-scrollbar.git"
+  },
+  "keywords": ["hide scrollbar"],
   "author": "hehe1111",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hehe1111/hide-scrollbar/issues"
+  },
+  "homepage": "https://github.com/hehe1111/hide-scrollbar#readme"
 }

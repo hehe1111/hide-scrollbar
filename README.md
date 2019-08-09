@@ -14,11 +14,7 @@ npm install hide-scrollbar
 import hideScrollbar from 'hide-scrollbar';
 
 // el: target element
-// width: width of wrapper element. Required.
-// height: height of wrapper element. Required.
+// width: width of wrapper element of el. Required.
+// height: height of wrapper element of el. Required.
 hideScrollbar(el, '200px', '200px');
 ```
-
-## Keywords
-
-hide scrollbar element
